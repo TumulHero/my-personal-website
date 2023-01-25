@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;   
+}
+section .top-banner{
+    height: 500px;
+}
+.top-banner{
+    display: flex;
+    background-repeat: no-repeat;
+    background-image:url("header-bg.png")
+}
+.top{width: 40%;
+    float: left;
+    margin: 200px 170px;
+}
+
+.photo img{
+    width: 40%;
+}
+
+.color{
+color: rgb(236, 11, 105);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+font-weight: bold;
+}
+
+.Link-Button{
+    text-decoration: none;
+    padding: 10px 35px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-weight: 500;
+    background-image: linear-gradient(#ec0b69ce,#ec0b69c7,#ec0b69d0);
+    font-weight: 500;
+}
+
+.Biography-Area{
+    height: 1000px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-image:url("biography-bg.png")
+}
+
+.photo-area img{
+    display: block;
+    max-width: 100%;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.my-work{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.work{
+    margin: 200px 250px;
+    display: flex;
+}
+
+.work img{
+    display: block;
+    width: 400px;
+    margin-right: 60px;
+}
+
+.footer{
+    padding: 100px;
+}
+
+.box{
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 40%;
+    background-image: linear-gradient(45deg, #eb4f8f, #ec4b6e);
+    padding: 1% 5%;
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+    transition: 0.7s;
+    
+}
+
+.box1{
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.massage{
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Lorem{
+    display: block;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+.CEO{
+
+    text-align: center;
+    color: dimgray;
+}
+
+.bruce{
+    font-size: 20px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+h2{font-size: 30px;}
+
+p{color: dimgray;
+}
+
+
+h4{
+    font-size: 35px;
+}
+h5{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
